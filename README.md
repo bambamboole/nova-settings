@@ -3,7 +3,9 @@ Add Settings via code and edit with Nova.
 ## Requirements
 * Laravel Nova
 ## Installation
-@Todo
+```
+composer require bambamboole/nova-settings
+```
 ## Usage
 After installing the tool you need to add it to your nova tools.
 ```php
