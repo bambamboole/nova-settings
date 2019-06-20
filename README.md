@@ -30,6 +30,12 @@ Now you can add Sections and Fields in your Service Providers `boot` method.
 ```
 Current possible types are `text` and `time`.
 
+##Screenshots
+![screenshot](/screenshots/screenshot1.png)  
+![screenshot](/screenshots/screenshot2.png)  
+![screenshot](/screenshots/screenshot3.png)
+
+
 ## Roadmap
 * Native Nova Fields
 * Validation
